@@ -5,3 +5,7 @@
 .carousel-content.active {
 	display: block;
 }
+
+.center {
+	text-align: center;
+}
